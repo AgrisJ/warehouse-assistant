@@ -15,24 +15,24 @@ Warehouse production worker performance tracking tool
 
 ### The application allows user to:
 
-See their momentary work performance
+See their momentary work performance through:
 
-*   *   Through current status/performance indicators
-    *   Through color-coding (red, yellow, green, pink and purple)
+*  Current status/performance indicators
+*  Color-coding (red, yellow, green, pink and purple)
 
-See their progress of the day
+See their progress of the day through:
 
-*   *   Through volume done
-    *   Through hours passed
-    *   Through items left
-    *   Through orders done
+*   Volume done
+*   Hours passed
+*   Items left
+*   Orders done
 
 Adjust numbers by daily needs
 
-*   *   Start/End Times
-    *   Effectivity goal
-    *   Manipulate with non-work time (breaks, meetings and other)
-    *   Undo function
+*   Start/End Times
+*   Effectivity goal
+*   Manipulate with non-work time (breaks, meetings and other)
+*   Undo function
 
 ### Technical wrap-up:
 
