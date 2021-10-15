@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AgrisJ/warehouse-assistant/static/css/main.fc16396d.chunk.css",
+    "main.js": "/AgrisJ/warehouse-assistant/static/js/main.6d9855c8.chunk.js",
+    "runtime-main.js": "/AgrisJ/warehouse-assistant/static/js/runtime-main.ec4f5448.js",
+    "static/css/2.803f5144.chunk.css": "/AgrisJ/warehouse-assistant/static/css/2.803f5144.chunk.css",
+    "static/js/2.5616eda5.chunk.js": "/AgrisJ/warehouse-assistant/static/js/2.5616eda5.chunk.js",
+    "index.html": "/AgrisJ/warehouse-assistant/index.html",
+    "precache-manifest.a524763d0780ac266547dc7ac970295c.js": "/AgrisJ/warehouse-assistant/precache-manifest.a524763d0780ac266547dc7ac970295c.js",
+    "service-worker.js": "/AgrisJ/warehouse-assistant/service-worker.js",
+    "static/js/2.5616eda5.chunk.js.LICENSE.txt": "/AgrisJ/warehouse-assistant/static/js/2.5616eda5.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/AgrisJ/warehouse-assistant/static/media/undo.de35ba6c.svg",
+    "static/media/agris.png": "/AgrisJ/warehouse-assistant/static/media/agris.c81de573.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec4f5448.js",
+    "static/css/2.803f5144.chunk.css",
+    "static/js/2.5616eda5.chunk.js",
+    "static/css/main.fc16396d.chunk.css",
+    "static/js/main.6d9855c8.chunk.js"
+  ]
+}
