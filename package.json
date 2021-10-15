@@ -1,6 +1,6 @@
 {
-	"name": "kolli-assistant",
-	"version": "0.1.0",
+	"name": "warehouse-assistant",
+	"version": "1.0.0",
 	"private": true,
 	"homepage": "https://agrisj.github.io/warehouse-assistant/",
 	"dependencies": {
