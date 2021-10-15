@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AgrisJ/warehouse-assistant/static/css/main.fc16396d.chunk.css",
-    "main.js": "/AgrisJ/warehouse-assistant/static/js/main.6d9855c8.chunk.js",
-    "runtime-main.js": "/AgrisJ/warehouse-assistant/static/js/runtime-main.ec4f5448.js",
-    "static/css/2.803f5144.chunk.css": "/AgrisJ/warehouse-assistant/static/css/2.803f5144.chunk.css",
-    "static/js/2.5616eda5.chunk.js": "/AgrisJ/warehouse-assistant/static/js/2.5616eda5.chunk.js",
-    "index.html": "/AgrisJ/warehouse-assistant/index.html",
-    "precache-manifest.a524763d0780ac266547dc7ac970295c.js": "/AgrisJ/warehouse-assistant/precache-manifest.a524763d0780ac266547dc7ac970295c.js",
-    "service-worker.js": "/AgrisJ/warehouse-assistant/service-worker.js",
-    "static/js/2.5616eda5.chunk.js.LICENSE.txt": "/AgrisJ/warehouse-assistant/static/js/2.5616eda5.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/AgrisJ/warehouse-assistant/static/media/undo.de35ba6c.svg",
-    "static/media/agris.png": "/AgrisJ/warehouse-assistant/static/media/agris.c81de573.png"
+    "main.css": "/warehouse-assistant/static/css/main.6dcc5fa5.chunk.css",
+    "main.js": "/warehouse-assistant/static/js/main.e9e5dbd4.chunk.js",
+    "runtime-main.js": "/warehouse-assistant/static/js/runtime-main.89090c6d.js",
+    "static/css/2.803f5144.chunk.css": "/warehouse-assistant/static/css/2.803f5144.chunk.css",
+    "static/js/2.5616eda5.chunk.js": "/warehouse-assistant/static/js/2.5616eda5.chunk.js",
+    "index.html": "/warehouse-assistant/index.html",
+    "precache-manifest.0376e2d805aa368cf8b1dd699ac44166.js": "/warehouse-assistant/precache-manifest.0376e2d805aa368cf8b1dd699ac44166.js",
+    "service-worker.js": "/warehouse-assistant/service-worker.js",
+    "static/js/2.5616eda5.chunk.js.LICENSE.txt": "/warehouse-assistant/static/js/2.5616eda5.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/warehouse-assistant/static/media/undo.de35ba6c.svg",
+    "static/media/agris.png": "/warehouse-assistant/static/media/agris.c81de573.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec4f5448.js",
+    "static/js/runtime-main.89090c6d.js",
     "static/css/2.803f5144.chunk.css",
     "static/js/2.5616eda5.chunk.js",
-    "static/css/main.fc16396d.chunk.css",
-    "static/js/main.6d9855c8.chunk.js"
+    "static/css/main.6dcc5fa5.chunk.css",
+    "static/js/main.e9e5dbd4.chunk.js"
   ]
 }
